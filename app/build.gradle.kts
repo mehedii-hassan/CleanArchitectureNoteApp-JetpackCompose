@@ -46,7 +46,6 @@ kapt {
     correctErrorTypes = true
 }
 
-
 dependencies {
 
     implementation(libs.androidx.core.ktx)
