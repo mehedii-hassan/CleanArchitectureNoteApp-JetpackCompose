@@ -40,7 +40,7 @@ object AppModule {
             getNotes = GetNotes(repository),
             deleteNote = DeleteNote(repository),
             addNote = AddNote(repository),
-           // getNote = GetNote(repository)
+            getNote = GetNote(repository)
         )
     }
 }
